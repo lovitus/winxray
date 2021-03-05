@@ -1,4 +1,11 @@
-﻿
+﻿# ******fork note*****
+**这个 origin是fork的 https://github.com/i5g5vip/winXray-v3.6**
+
+  **存在私货,需要检查代码后使用.**
+
+-------
+# **note end**
+---
       WinXray V 2.8（添加及更改IOC图标！添加推荐按钮！）winxray:Xray的windows客户端！
 导语：
      请用官网地址下载：https://winxray.com
